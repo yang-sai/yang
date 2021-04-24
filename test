@@ -1,0 +1,8 @@
+<view class="top"> <button>正在热播</button>
+ <text decode="{{true}} "></text>  <button>即将上映</button></view>
+<swiper autoplay circular="true">
+  <swiper-item><image src="./1.jpg"></image></swiper-item>
+  <swiper-item><image src="./2.jpg"></image></swiper-item>
+  <swiper-item><image src="./3.jpg"></image></swiper-item>
+  <swiper-item><image src="./4.jpg"></image></swiper-item>
+</swiper>
